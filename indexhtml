@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muddytrails</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero-section">
+        <nav class="navbar">
+            <h1 class="logo">Muddytrails</h1>
+            <a href="#" class="nav-quiz">Travel Quiz</a>
+        </nav>
+        <div class="hero-content">
+            <h1 class="hero-title">Discover India's Beauty Through Muddytrails</h1>
+            <p class="hero-subtitle">Embark on a journey through India's scenic wonders with Akhil's travel blog and captivating photography on Muddytrails.</p>
+            <div class="cta-form">
+                <input type="email" placeholder="Email address">
+                <button>Start Exploring</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="features-section">
+            <div class="feature-card">
+                <h2>Travel Stories</h2>
+            </div>
+            <div class="feature-card">
+                <h2>Stunning Photography</h2>
+            </div>
+            <div class="testimonial-card">
+                <p>“Captures the essence of India beautifully.”</p>
+                <div class="author">
+                    <img src="placeholder-image.jpg" alt="Luke King">
+                    <span>Luke King</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="explore-section">
+            <img src="placeholder-image-large.jpg" alt="Akhil exploring India">
+            <div class="explore-content">
+                <h2>Explore India's Wonders</h2>
+                <p>Join Akhil's journey of discovery and wanderlust through captivating travel stories and stunning photography.</p>
+            </div>
+        </section>
+
+        <section class="content-grid">
+            <div class="grid-item">
+                <h2>Visual Travel Experiences</h2>
+                <p>Immerse yourself in Akhil's visual travel experiences capturing the essence of India's diverse landscapes and cultures.</p>
+                <img src="placeholder-image.jpg" alt="Visual Travel Experiences">
+            </div>
+            <div class="grid-item">
+                <h2>Inspiring Wanderlust</h2>
+                <p>Let Akhil's adventures inspire your wanderlust and urge you to explore the hidden gems of India.</p>
+                <img src="placeholder-image.jpg" alt="Inspiring Wanderlust">
+            </div>
+            <div class="grid-item">
+                <h2>Personalized Travel Stories</h2>
+                <p>Experience India through Akhil's lens and get insights into unique travel destinations and local experiences.</p>
+                <img src="placeholder-image.jpg" alt="Personalized Travel Stories">
+            </div>
+            <div class="grid-item">
+                <h2>Authentic Travel Content</h2>
+                <p>Muddytrails offers authentic travel content that showcases the beauty of India, setting it apart from generic travel blogs.</p>
+                <img src="placeholder-image.jpg" alt="Authentic Travel Content">
+            </div>
+        </section>
+
+        <section class="testimonial-section">
+            <div class="testimonial-content">
+                <p class="quote">"Muddytrails has ignited my passion for travel and exploration."</p>
+                <div class="author">
+                    <img src="placeholder-image.jpg" alt="Nathan Moore">
+                    <span>Nathan Moore</span>
+                </div>
+            </div>
+        </section>
+        
+        <section class="cta-bottom">
+            <div class="cta-content">
+                <h2>Start Your Adventure with Muddytrails.</h2>
+                <p class="quote">“Muddytrails has been a game-changer for me. It not only helped me discover hidden gems in India but also inspired me to explore more. The photography is so captivating that it feels like I'm on the journey with Akhil.” - Xander Nelson</p>
+                <div class="cta-form">
+                    <input type="email" placeholder="Email address">
+                    <button>Start Exploring</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <nav class="footer-nav">
+            <a href="#">Homepage</a>
+            <a href="#">Travel Quiz</a>
+        </nav>
+        <div class="social-links">
+            <a href="#">facebook</a>
+            <a href="#">instagram</a>
+            <a href="#">youtube</a>
+            <a href="#">linkedin</a>
+        </div>
+        <p class="copyright">© All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
